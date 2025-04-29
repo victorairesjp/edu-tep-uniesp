@@ -1,0 +1,10 @@
+body {
+    font-family: monospace;
+}
+
+.investimento {
+    background-color: rgb(82, 127, 82);
+    color: white;
+    padding: 5px;
+    width: 220px;
+}
